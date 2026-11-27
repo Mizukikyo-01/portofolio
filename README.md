@@ -1,4 +1,4 @@
-# Portofolio Mifftah Adnan Sujadi
+# Portofolio Miftah Adnan Sujadi
 Website portofolio pribadi yang saya buat di Kelas Industri UBIG
 (Paket 1, Minggu 01 sampai 05).
 Website ini tampil rapi di ponsel, tablet, dan laptop.
